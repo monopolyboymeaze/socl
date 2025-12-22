@@ -71,7 +71,7 @@ This is unnecessary since it's just poorly describing what a license is.
 
 > All licensors‘s copyrights, designs, and patents as far as relevant to products and/or its components under OCL are **community open** ... [sic] [emphasis added]
 
-The term **community open** is undefined and meaningless. OCL is essentially saying that you can download a copy of the source designs for some aspects of the project. There's no need for a license to specify this, as the copyright holder is free to distribute any supplemental material such as technical drawings and source code without granting any rights for reproduction. This is no different from an appliance manufacturer making schematics and such available to their customer. Just because you have access to something doesn't mean you have any rights to reproduce it. For example, you can legally view just about any patent but it would be illegal to reproduce the subject.
+The term **community open** is undefined and meaningless. OCL is essentially saying that you can download a copy of the source designs for some aspects of the project. There's no need for a license to specify this, as the copyright holder is free to distribute any supplemental material such as technical drawings and source code without granting any rights for reproduction. This is no different from an appliance manufacturer making schematics and such available to their customers. Just because you have access to something doesn't mean you have any rights to reproduce it. For example, you can legally view just about any patent but it would be illegal to reproduce the subject.
 
 In summary, this clause doesn't grant any rights or add restrictions or obligations, so it can be removed.
 
@@ -80,7 +80,7 @@ In summary, this clause doesn't grant any rights or add restrictions or obligati
 Good lord is this a word burger. We're going to break out the bulleted list- don't worry, they're not *real* bullets:
 
 - `essential right [sic]`: We have no idea what this means. 🤷‍♀️
-- `the right-to-repair [sic]`: According to our [semi-reliable source][repair.org], "Right to Repair" comes into play when products include deceptive end-user license agreements or contracts. These contracts would supercede a license like OCL (and SOCL, and MOCL). Repair.org also claims that "The U.S. Copyright Office (USCO) clarified in 2016 that copyright law does not prohibit repair, customization, security research, or resale.", so from our understanding unless you've got a supervillian lawyer coming up with EULAs that prevent users from sneezing in the vicinity of your product, you don't need to explicitly spell this out as users already have these rights. Even if this weren't the case, there's nothing in OCL that defines what this right is supposed to be, so it's effectively meaningless.
+- `the right-to-repair [sic]`: According to our [semi-reliable source][repair.org], "Right to Repair" comes into play when products include deceptive end-user license agreements or contracts. These contracts would supercede a license like OCL (and SOCL, and MOCL). Repair.org also claims that "The U.S. Copyright Office (USCO) clarified in 2016 that copyright law does not prohibit repair, customization, security research, or resale," so from our understanding unless you've got a supervillain lawyer coming up with EULAs that prevent users from sneezing in the vicinity of your product, you don't need to explicitly spell this out as users already have these rights. Even if this weren't the case, there's nothing in OCL that defines what this right is supposed to be, so it's effectively meaningless.
 - `giving users complete freedom of use, copy, modification, and hack [sic]`: This is contradicted by the limitations spelled out in later parts of the OCL. Users do not have **complete** freedom, as they are not allowed to use an OCL-licensed project for commercial purposes. As noted in the previous point, copyright does not prohibit repair or customization. Given that this is no different from "all rights reserved", it's unnecessary.
 - `while promoting a fair competition by securing intellectual property rights to prevent vendor locking and patent trolling. [sic]`: This introduces new terms without ever defining them, and does not provide any clarification on other parts of the license. As far as we can tell this is posturing and meaningless.
 
@@ -100,11 +100,11 @@ OCL does not ever define `non-commercial END USER [sic]` but we can surmise that
 > YOU MAY use, copy, modify, hack the product and/or its components as
 you wish! [sic]
 
-As mentioned previously, copyright alone does not prohibit repair, customization, security research, or resale. So other than "copy", everything listed here is redundant. "copy ... as you wish [sic]" is contradicted by the restriction on being able to sale copies, so this is effectively no different from "all rights reserved" and can be removed.
+As mentioned previously, copyright alone does not prohibit repair, customization, security research, or resale. So other than "copy", everything listed here is redundant. `copy ... as you wish [sic]` is contradicted by the restriction on being able to sale copies, so this is effectively no different from "all rights reserved" and can be removed.
 
 > YOU SHOULD support the 3D printing community by sharing your creations and modifications.
 
-Yeah, and dentists say we should floss more often. This is a contract, not a suggestion box. This is weirdly specific to 3d printer and doesn't add anything meaningful, so it can be removed.
+Yeah, and dentists say we should floss more often. This is a contract, not a suggestion box. This is weirdly specific to 3d printers and doesn't add anything meaningful, so it can be removed.
 
 > If you distribute your creations, modifications, or any such derivatives YOU MUST do so under OCL or any non-commercial, share-alike license allowing other community members to do everything that YOU MAY. [sic]
 
@@ -120,7 +120,7 @@ Again, OCL does not ever define `commercial BUSINESS USER [sic]`, but based on t
 
 > YOU MAY use the product and modify it to your use case solely for your internal production use. [sic]
 
-Once again, already covered within the existing copyright framework. Unless you're adding additional contracts or EULAs (I see you, John Deere), this isn't necessary, and if you are, then this is superceded by those contracts.
+Once again, already covered within the existing copyright framework. Unless you're adding additional contracts or EULAs (we see you, John Deere), this isn't necessary, and if you are, then this is superceded by those contracts.
 
 > YOU MUST NOT modify the product and/or its components for any commercial purpose other than your internal production use. [sic]
 
