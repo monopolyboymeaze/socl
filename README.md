@@ -61,7 +61,7 @@ That's not a mistake, it's literally nothing. That's because in most countries [
 
 ## Comparison
 
-SOCL's intense conciseness might have startled you. We don't wish to alarm, so we've made this comparison between SOCL and its [overly verbose inspiration][ocl-text]. Let's break it done section by section.
+SOCL's intense conciseness might have startled you. We don't wish to alarm, so we've made this comparison between SOCL and its [overly verbose inspiration][ocl-text]. Let's break it down section by section.
 
 > OCL pertains to intellectual property applied in licensor‘s products
 and/or its components (hardware and software) which is distributed
