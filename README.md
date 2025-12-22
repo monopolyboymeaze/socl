@@ -67,7 +67,7 @@ SOCL's intense conciseness might have startled you. We don't wish to alarm, so w
 and/or its components (hardware and software) which is distributed
 under such, including copyright, design, and patent. [sic]
 
-This is unnecessary since it's just poorly describing what a license.
+This is unnecessary since it's just poorly describing what a license is.
 
 > All licensors‘s copyrights, designs, and patents as far as relevant to products and/or its components under OCL are **community open** ... [sic] [emphasis added]
 
