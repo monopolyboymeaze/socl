@@ -1,6 +1,6 @@
 # Simplified Open Community License
 
-This repository contains the **Simplified** Open Community License (SOCL V1). SOCL is a license designed to satisfy all of the goals of the original [Open Community License][col] while being more succinct and legally sound.
+This repository contains the **Simplified** Open Community License (SOCL V1). SOCL is a license designed to satisfy all of the goals of the original [Open Community License][ocl] while being more succinct and legally sound.
 
 Like it's predecessor, SOCL:
 
