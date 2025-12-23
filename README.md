@@ -11,7 +11,7 @@ Unlike its predecessor, SOCL:
 - Features **345** less words (long form) or **infinitely** less words (short form).
 - Is backed by literal centuries of case law.
 
-You might be wondering how SOCL accomplishes this with such brevity, luckily for you we have a [Comparison](#comparison) and [FAQ](#faq) just for you, brave scholar!
+You might be wondering how SOCL accomplishes this with such brevity, luckily we have a [Comparison](#comparison) and [FAQ](#faq) just for you, brave scholar!
 
 [ocl]: https://github.com/OpenCommunityLicence/OpenCommunityLicence
 
@@ -157,6 +157,20 @@ Some so-called "open source" "purists" would rattle on about [freedoms and defin
 
 [osd]: https://opensource.org/osd
 
+### Okay but really, is this open source?
+
+No, it's at best *source available*, and that's okay- but the [distinction is important][danb]. *Open source* licenses should generally meet the [Open Source Definition][osd], and licenses like OCL/SOCL explicitly fail criteria *6*:
+
+> 6. No Discrimination Against Fields of Endeavor
+> The license must not restrict anyone from making use of the program in a specific field of endeavor. For example, it may not restrict the program from being used in a business, or from being used for genetic research.
+
+So yeah, source available, not open source. To quote [Dan Brown][danb]:
+
+> Advertising as open source could easily mislead someone into thinking the project is something which it is not. It’s attempting to use the good-will of open source without taking the same risks as those that have built its reputation.
+
+[danb]: https://danb.me/blog/open-source-available-distinction/
+[osd]: https://opensource.org/osd
+
 ### Should I consult a lawyer before using OCL/SOCL?
 
 Oh, absolutely. They'll at least get a good laugh, and you'll feel better about paying a lot of money to talk to a dude for 5 minutes if he has a funny sounding laugh. You should also talk to a friend, a parent, or a guardian, and possibly a pet. If you're religious, consider asking your priest/rabbi/coven mother what they think.
@@ -205,7 +219,9 @@ If you want to do *real* open source, not that imitation stuff, you can use a re
 [cern-ohl]: https://gitlab.com/ohwr/project/cernohl/-/wikis/home
 [cc]: https://creativecommons.org/
 
-If you don't like open source, what the hell are you doing here? Just do the normal shit! Get out!
+If you reeeeeeally, reaaaaaaaaaally can't stand the idea that someone could make money from your project, you could consider a *source available* license, which is more or less what OCL is trying to be.
+
+However, if you don't like open source, what the hell are you doing here? Just do the normal shit! Get out!
 
 ## Copyright
 
